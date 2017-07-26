@@ -1,0 +1,8 @@
+title: Serious-games
+description: Adaptivity in Educational Serious Games - Evaluation Case Study made on the iPad - Contribution
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
